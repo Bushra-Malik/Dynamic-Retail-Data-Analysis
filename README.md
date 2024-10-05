@@ -1,4 +1,4 @@
-# Dynamic-Retail-Data-Analysis
+# Dynamic Retail Data Analysis
 
 ## Project Overview
 **Dynamic Retail Data Analysis** is a comprehensive project focused on analyzing sales data from various retail stores to uncover valuable insights and trends that can enhance business decision-making. The analysis emphasizes the influence of key factors, including holidays, promotional markdowns, temperature variations, and fuel prices on weekly sales performance.
